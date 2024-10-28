@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "titleUrl": "prototipe-sistem-alarm-pendeteksi",
+    "title": "PROTOTIPE SISTEM ALARM PENDETEKSI ASAP DAN KEBAKARAN DINI MENGGUNAKAN KIPAS DAN POMPA AIR BERBASIS ARDUINO UNO",
+    "description": "A Scientific Research, carrying out coding programming via Arduino for fire sensor, MQ-2 smoke sensor, 2 Channel Relay Module, 12 V Mini Water Pump, 5v Buzzer, 12V Mini Fan, 16x2 i2c LCD, wiring each component.",
+    "date": "October 27, 2024",
+    "readTime": "30 min read",
+    "done": "No"
+  },
+  {
+    "id": "2",
+    "titleUrl": "prototipe-sistem-penyiraman-tanaman",
+    "title": "PROTOTIPE SISTEM PENYIRAMAN TANAMAN OTOMATIS BERBASIS ARDUINO UNO MENGGUNAKAN TANAMAN KURA",
+    "description": "scientific writing, programming coding via Arduino for soil moisture sensor, LM 35 temperature sensor, DS1302 RTC Module, 2 Channel Relay Module, 16x2 i2c LCD,12 V Mini Water Pump, wiring each component, installing cables to the relay module, installing prototype tools, conducting trials tool, checking programming coding"
+    "readTime": "30 min read",
+    "done": "No"
+  },
+  {
+    "id": "3",
+    "titleUrl": "prototipe-sistem-monitoring-kelembaban",
+    "title": " prototipe sistem monitoring kelembaban tanah penyiraman tanaman otomatis pada tanaman kedongdong berbasis arduino",
+    "description": "membuat alat di mata kuliah Proyek Sistem Komputer di universitas gunadarma dengan 4 sks dengan 1 kelompok 4.",
+    "date": "October 27, 2024",
+    "readTime": "34 min read",
+    "done": "No"
+  },
+  {
+    "id": "4",
+    "titleUrl": "coming-soon",
+    "title": "Coming Soon"",
+    "description": "Coming Soon",
+    "date": "October 27, 2024",
+    "readTime": "0 min read",
+    "done": "No"
+  }
+]
